@@ -9,5 +9,5 @@ This repository contains the following files:
 5. LCOHallEBmatrix_CA.jld2: Output LCOH data for each run of the Monte Carlo simulation performed in the TEA model found in NDwEB_final_CA.jl.
 6. CF_Data_SAM.mat: MATLAB data file containing the hourly capacity factor data for solar PV in each location analyzed in this paper.
 7. CA_grid_data_cambium.mat: MATLAB data file containing the hourly grid electricity price and emissions data pulled from NREL's Cambium dataset.
-8. H2TEA_SI_revised (nature_comm): Supporting Information to the main text. Contains model input data and additional figures not shown in the main text.
+8. H2TEA_SI_final (nature_comm): Supporting Information to the main text. Contains model input data and additional figures not shown in the main text.
 9. Source Data.xlsx: Contains all input data for the modeling performed in this study. Also contains raw results data for each plot shown in the main text.
